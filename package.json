@@ -1,0 +1,39 @@
+{
+  "name": "koa2-blog",
+  "version": "1.0.0",
+  "description": "koa-blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "liangjingxuan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LiangJingxuan/koa2-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LiangJingxuan/koa2-blog/issues"
+  },
+  "homepage": "https://github.com/LiangJingxuan/koa2-blog#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-mysql-session": "^0.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^4.0.3",
+    "koa-static-cache": "^5.1.2",
+    "koa-views": "^6.1.4",
+    "markdown-it": "^8.4.1",
+    "md5": "^2.2.1",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.15.0"
+  }
+}
